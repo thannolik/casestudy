@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/casestudy/static/css/main.f6105d81.chunk.css",
+    "main.js": "/casestudy/static/js/main.e1b9d649.chunk.js",
+    "main.js.map": "/casestudy/static/js/main.e1b9d649.chunk.js.map",
+    "runtime-main.js": "/casestudy/static/js/runtime-main.776a1a58.js",
+    "runtime-main.js.map": "/casestudy/static/js/runtime-main.776a1a58.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/casestudy/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e5bcb93f.chunk.js": "/casestudy/static/js/2.e5bcb93f.chunk.js",
+    "static/js/2.e5bcb93f.chunk.js.map": "/casestudy/static/js/2.e5bcb93f.chunk.js.map",
+    "index.html": "/casestudy/index.html",
+    "precache-manifest.3031ffee7fc7d21546eaf640f8ab686a.js": "/casestudy/precache-manifest.3031ffee7fc7d21546eaf640f8ab686a.js",
+    "service-worker.js": "/casestudy/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/casestudy/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.f6105d81.chunk.css.map": "/casestudy/static/css/main.f6105d81.chunk.css.map",
+    "static/js/2.e5bcb93f.chunk.js.LICENSE": "/casestudy/static/js/2.e5bcb93f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/casestudy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.776a1a58.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e5bcb93f.chunk.js",
+    "static/css/main.f6105d81.chunk.css",
+    "static/js/main.e1b9d649.chunk.js"
+  ]
+}
